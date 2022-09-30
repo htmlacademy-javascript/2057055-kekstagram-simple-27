@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм (простой)»
 
 * Студент: [Дмитрий Ткаличев](https://up.htmlacademy.ru/javascript/27/user/2057055).
-* Наставник: `Неизвестно`.
+* Наставник: [Руслан Бреев](https://htmlacademy.ru/profile/blckwltz).
 
 ---
 
