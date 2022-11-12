@@ -1,4 +1,3 @@
-
 // Генератор числа в диапазоне
 const NUMBER_OF_OBJECTS = 25;
 const getRandomNumber = (from, to) => {
@@ -65,5 +64,3 @@ const photos = () => {
 };
 
 photos();
-
-
